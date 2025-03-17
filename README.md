@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Taylor Ligon
-- 👀 I’m interested in theoretical astrophysics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on creating simulations to get a better view of our universe
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love doing math problems in my free time.
+Hi!
+My name is Taylor Ligon and I...
+- 🔭 have a passion theoretical astrophysics
+- 👩🏽‍💻 code frequently using python
+- ♾️ solve math and physics problems for fun.
+- 📝 am a LaTex user
+- 💫 am student researcher
 
 <!---
 ligonttaylor/ligonttaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
